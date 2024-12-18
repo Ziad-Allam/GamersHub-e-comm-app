@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Route, Routes } from "react-router-dom"
-import AuthLayout from "./components/auth/layout"
+import AuthLayout from "./components/auth/Layout"
 import Login from "./pages/auth/login"
 import Register from "./pages/auth/register"
 import Layout from "./components/common/Layout"
