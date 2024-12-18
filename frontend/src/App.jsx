@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import { Route, Routes } from "react-router-dom"
 import AuthLayout from "./components/auth/Layout"
-import Login from "./pages/auth/login"
-import Register from "./pages/auth/register"
+import Login from "./pages/auth/Login"
+import Register from "./pages/auth/Register"
 import Layout from "./components/common/Layout"
 import Home from "./pages/Home"
 import Wishlist from "./pages/Wishlist"
